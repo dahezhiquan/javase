@@ -60,5 +60,17 @@ public class Var {
         // 强制数据类型转换
         int m = (int)5.21;
         System.out.println(m);
+
+        // 基本数据类型和字符串之间的转换
+        // 基本数据类型 -- 字符串
+        int n = 521;
+        String s1 = n + ""; // 加双引号即可转换
+        System.out.println(s1);
+        // 字符串 -- 基本数据类型
+        String s2 = "521";
+        int o = Integer.parseInt(s2);
+        System.out.println(o);
+        // 得到s2字符串的第一个字符
+        System.out.println(s2.charAt(0));
     }
 }
