@@ -25,4 +25,5 @@ hs_err_pid*
 # IDEA
 .logs/
 .idea/
-.out/
+/out
+*.iml

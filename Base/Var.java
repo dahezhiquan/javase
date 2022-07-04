@@ -57,6 +57,8 @@ public class Var {
         System.out.println(num);
         System.out.println(l);
 
+        // 强制数据类型转换
+        int m = (int)5.21;
+        System.out.println(m);
     }
-
 }
