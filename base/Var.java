@@ -1,4 +1,4 @@
-package Base;
+package base;
 
 /**
  * java数据类型

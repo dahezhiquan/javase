@@ -1,4 +1,4 @@
-package Base;
+package base;
 
 /**
  * 第一个java程序
