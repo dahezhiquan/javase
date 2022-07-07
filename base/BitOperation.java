@@ -1,5 +1,8 @@
 package base;
 
+/**
+ * 二进制和位运算
+ */
 public class BitOperation {
     public static void main(String[] args) {
         // 进制

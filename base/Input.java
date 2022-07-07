@@ -2,6 +2,9 @@ package base;
 
 import java.util.Scanner;
 
+/**
+ * 键盘输入
+ */
 public class Input {
     public static void main(String[] args) {
         // 创建Scanner对象

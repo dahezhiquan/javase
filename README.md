@@ -13,8 +13,14 @@ java基础语法内容
 - Operator.java 运算符
 - BitOperation.java 位运算
 - Input.java 键盘输入
-- Condition 分支
+- Condition.java 分支
+- Array.java 数组
+- Loop.java 循环
 
+## object
+java面向对象
+- Dog.java 类的创建与基本使用
+- DogText.java Dog类的测试类
 
 
 # 谨记
