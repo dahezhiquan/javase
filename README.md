@@ -20,7 +20,20 @@ java基础语法内容
 ## object
 java面向对象
 - Dog.java 类的创建与基本使用
-- DogText.java Dog类的测试类
+- Person.java 类的方法，递归使用
+- Overload.java 方法重载，可变参数
+- This.java this关键字
+
+
+## senobject
+面向对象的三大特性
+
+- AccessModifier.java 访问修饰符
+- Encapsulation.java 封装
+- Inherit.java 继承的父类
+- Graduate.java 继承的子类
+- Pupil.java 继承的子类
+
 
 
 # 谨记

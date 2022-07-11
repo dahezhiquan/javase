@@ -1,24 +1,28 @@
 package object;
 
 /**
- * Dog类
+ * Dog类，面向对象基本
  */
 public class Dog {
     // 类的属性
     String breed;
     int size;
-    String colour ;
+    String colour;
     int age;
-    void eat(){
+
+    void eat() {
         System.out.println("我要吃饭！");
     }
-    void run(){
+
+    void run() {
 
     }
-    void sleep(){
+
+    void sleep() {
 
     }
-    void name(){
+
+    void name() {
 
     }
 }

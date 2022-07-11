@@ -19,7 +19,5 @@ public class DogText {
         // 类赋值
         Dog dog1 = dog; // 把dog赋值给dog1，本质上是内存的指向
         System.out.println(dog1.age);
-
-
     }
 }
