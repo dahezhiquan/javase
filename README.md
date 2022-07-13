@@ -31,8 +31,25 @@ java面向对象
 - AccessModifier.java 访问修饰符
 - Encapsulation.java 封装
 - Inherit.java 继承的父类
-- Graduate.java 继承的子类
-- Pupil.java 继承的子类
+- Graduate.java/Pupil.java 继承的子类
+- SuperSon.java super演示子类
+- SuperFather.java super演示父类
+- OverrideAnimal.java 重写演示父类
+- OverrideDog.java 重写演示子类
+- MethodPolymorphic.java 方法多态演示
+- ObjectPolymorphicAnimal.java 对象多态的父类
+- ObjectPolymorphicCat.java/ObjectPolymorphicDog.java 对象多态的子类
+
+### polarr
+多态数组
+
+### polpar
+多态参数
+
+## classes
+常用类演示
+
+- CommonObject.java  常用Object类
 
 
 
