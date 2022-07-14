@@ -1,4 +1,4 @@
-package senobject.polarr;
+package intermediateobject.polymorphicarray;
 
 public class Test {
     public static void main(String[] args) {

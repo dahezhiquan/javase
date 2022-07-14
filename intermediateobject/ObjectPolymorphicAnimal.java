@@ -1,4 +1,4 @@
-package senobject;
+package intermediateobject;
 
 /**
  * 对象多态的父类

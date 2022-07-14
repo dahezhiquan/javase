@@ -1,4 +1,4 @@
-package senobject;
+package intermediateobject;
 
 /**
  * 方法多态演示

@@ -28,7 +28,7 @@ java面向对象
 - This.java this关键字
 
 
-## senobject
+## intermediateobject
 面向对象的三大特性
 
 - AccessModifier.java 访问修饰符
@@ -43,10 +43,10 @@ java面向对象
 - ObjectPolymorphicAnimal.java 对象多态的父类
 - ObjectPolymorphicCat.java/ObjectPolymorphicDog.java 对象多态的子类
 
-### polarr
+### polymorphicarray
 多态数组
 
-### polpar
+### polymorphicparameter
 多态参数
 
 ## classes

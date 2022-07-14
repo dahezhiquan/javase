@@ -1,4 +1,4 @@
-package senobject.polpar;
+package intermediateobject.polymorphicparameter;
 
 /**
  * 多态参数 - 经理子类

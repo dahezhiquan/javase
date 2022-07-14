@@ -1,4 +1,4 @@
-package senobject;
+package intermediateobject;
 
 /**
  * 访问修饰符

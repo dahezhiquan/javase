@@ -1,4 +1,4 @@
-package senobject;
+package intermediateobject;
 
 /**
  * 重写 - 父类

@@ -1,4 +1,4 @@
-package senobject;
+package intermediateobject;
 
 /**
  * 小学生，继承父类的子类

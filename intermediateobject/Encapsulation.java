@@ -1,4 +1,4 @@
-package senobject;
+package intermediateobject;
 
 /**
  * 三大特性：封装

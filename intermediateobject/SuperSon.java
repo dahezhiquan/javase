@@ -1,4 +1,4 @@
-package senobject;
+package intermediateobject;
 
 /**
  * super关键字演示子类

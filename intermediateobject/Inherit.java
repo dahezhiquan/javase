@@ -1,4 +1,4 @@
-package senobject;
+package intermediateobject;
 
 /**
  * 三大特性：继承演示的父类

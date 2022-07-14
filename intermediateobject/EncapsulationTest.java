@@ -1,4 +1,4 @@
-package senobject;
+package intermediateobject;
 
 /**
  * 封装的测试类

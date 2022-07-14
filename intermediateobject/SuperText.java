@@ -1,4 +1,4 @@
-package senobject;
+package intermediateobject;
 
 /**
  * super演示测试类

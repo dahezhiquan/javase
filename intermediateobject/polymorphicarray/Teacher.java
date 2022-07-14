@@ -1,4 +1,4 @@
-package senobject.polarr;
+package intermediateobject.polymorphicarray;
 
 /**
  * 多态数组教师子类

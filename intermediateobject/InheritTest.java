@@ -1,4 +1,4 @@
-package senobject;
+package intermediateobject;
 
 /**
  * 继承演示的测试类
