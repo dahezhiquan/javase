@@ -29,7 +29,7 @@ java面向对象
 
 
 ## intermediateobject
-面向对象的三大特性
+面向对象的三大特性，面向对象中级
 
 - AccessModifier.java 访问修饰符
 - Encapsulation.java 封装
@@ -48,6 +48,36 @@ java面向对象
 
 ### polymorphicparameter
 多态参数
+
+
+## seniorobject
+面向对象高级
+
+- Static.java 类变量和类方法
+- Main.java 深入理解main方法
+- Codeblock.java 代码块
+- CodeblockStatic.java 静态代码块
+- HungryMan.java 单例 - 饿汉式设计模式
+- LazyMan.java 单例 - 懒汉式设计模式
+- Final.java final关键字
+- Abstract.java 抽象类
+- AbstractTemplate.java 抽象模板设计模式
+
+### interface_
+接口
+- UsbInterface.java 接口
+- Phone.java 手机设备
+- Camera.java 相机设备
+- Computer.java 计算机工作
+
+### interclass
+内部类
+- InnerClass.java 内部类模板
+- LocalInnerClass.java 局部内部类
+- AnonymousInnerClass.java 匿名内部类
+- AnonymousInnerClassPractice.java 匿名内部类的最佳实践
+- MemberInnerClass.java 成员内部类
+- StaticInnerClass.java 静态内部类
 
 ## classes
 常用类
