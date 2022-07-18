@@ -79,6 +79,14 @@ java面向对象
 - MemberInnerClass.java 成员内部类
 - StaticInnerClass.java 静态内部类
 
+## advanced
+java进阶内容
+- Eunm.java 枚举类
+- EnumMethod.java 枚举类的方法
+- Annotation.java java注解
+- Exception.java 异常
+
+
 ## classes
 常用类
 
