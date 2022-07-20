@@ -101,6 +101,13 @@ java进阶内容
 - LargeNumber.java java大数处理方案
 - DateTest.java 日期类
 
+### aggregate
+集合类
+
+- CollectionTest.java Collection接口演示
+- IteratorTest.java 迭代器演示
+
+
 # 谨记🎂
 宝剑锋从磨砺出,梅花香自苦寒来
 
