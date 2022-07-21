@@ -106,6 +106,9 @@ java进阶内容
 
 - CollectionTest.java Collection接口演示
 - IteratorTest.java 迭代器演示
+- ListTest.java List接口演示
+- ArrayListTest.java ArrayList演示
+- LinkedListTest.java LinkedList演示
 
 
 # 谨记🎂
